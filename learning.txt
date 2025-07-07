@@ -1,1 +1,5 @@
-I've learned how to use GitHub repositories and branches.
+What I have learned from this course
+
+I have learned how to use GitHub repositories, create branches, and make pull requests. This has helped me understand collaboration and version control better.
+
+
