@@ -1,0 +1,7 @@
+# My Personal and Academic Goals for Next Year
+
+- Complete my current studies with excellent grades.
+- Learn more about Git, GitHub, and version control systems.
+- Start contributing to open-source projects.
+- Build a personal portfolio website.
+- Improve my programming skills in Python and JavaScript.
